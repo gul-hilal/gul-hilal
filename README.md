@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Gülhilal 👋
 
-<!--
-**gul-hilal/gul-hilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jr. Frontend Developer & Visual Artist** based in Türkiye.  
+I translate visual ideas into friendly, accessible UIs.
 
-Here are some ideas to get you started:
+- 🔭 Currently building with **React**, **Redux Toolkit**, **Vite**
+- 🎨 UI/UX tools: **Figma**, **Procreate**
+- ✨ I love bridging **code & art** (animation, micro-interactions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Languages:** JavaScript (ES6+), HTML5, CSS (Module CSS)  
+**Frontend:** React, React Router, Redux Toolkit, Redux Persist, Vite  
+**Tools:** Git & GitHub, Vercel, GitHub Pages, Figma, Procreate  
+
+## Featured projects
+- 🎬 **Movie Explorer** – React Router, lazy routes, TMDB API  
+  **Code:** https://github.com/gul-hilal/goit-react-hw-05  
+  **Live:** https://goit-react-hw-05-gulhilal.vercel.app
+- 📒 **Phonebook** – Redux Toolkit + Persist, Vite  
+  **Code:** https://github.com/gul-hilal/goit-react-hw-06  
+  **Live:** *(coming soon on Vercel)*
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/gulhilalalakus  
+- Portfolio: https://gulhilalalakus.com
